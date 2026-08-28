@@ -102,7 +102,7 @@ foreach ($line in $names) {
 ```
 
 <p align="center">
-  <img src="Screenshots/created%20scrip%20to%20add%20users%20and%20also%20i%20created%201USERS%20directory%20to%20organization%20to%20my%20domain%20before.jpg" alt="PowerShell ISE Executing Bulk User Creation" width="85%"/>
+  <img src="Screenshots/created%20scrip%20to%20add%20users%20and%20also%20i%20created%201USERS%20directory%20to%20organization%20to%20my%20domain%20before.png" alt="PowerShell ISE Executing Bulk User Creation" width="85%"/>
 </p>
 
 <p align="center">
@@ -116,6 +116,6 @@ foreach ($line in $names) {
 Started a Windows 11 client machine, verified IP address lease acquisition via DHCP (`10.0.0.100`), tested default gateway routing (`10.0.0.1`), and confirmed active network connectivity to `aniltkl.com` via DNS ping tests.
 
 <p align="center">
-  <img src="Screenshots/clientwindows%20ipconfig.jpg" alt="Windows Client IP Configuration" width="45%"/>
-  <img src="Screenshots/pinged.jpg" alt="Ping Test to Domain Controller" width="45%"/>
+  <img src="Screenshots/clientwindows%20ipconfig.png" alt="Windows Client IP Configuration" width="45%"/>
+  <img src="Screenshots/pinged.png" alt="Ping Test to Domain Controller" width="45%"/>
 </p>
